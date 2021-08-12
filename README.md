@@ -1,6 +1,6 @@
-# Reference
 
-https://img.shields.io/tokei/lines/github/arkk4/md-cheatsheets?style=for-the-badge
+
+![badge](https://img.shields.io/tokei/lines/github/arkk4/md-cheatsheets?style=for-the-badge)
 
 Share quick reference cheat sheet for developers.
 If you see a cheatsheet here is not fit, you can fix it or provide a better cheatsheet by submitting a PR.
